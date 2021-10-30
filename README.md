@@ -1,8 +1,11 @@
 ### Hi there 👋, I'm Tanmay Jain
-#### Android and Web Development
 I'm Tanmay from India, and I do content on Android and Web Development. I really enjoy learning languages like Kotlin, JavaScript and Python and frameworks like Bootstrap and React Native.
 
-Skills: Kotlin/ XML/ HTML / CSS/ React Native
+##Skills and Experience
+* 👩‍💻 HTML, CSS, Bootstrap
+* 📱 Android Deveelopment
+* ⚛ React Native
+
 
 - 🔭 I’m currently working on my projects. 
 - 🌱 I’m currently learning Web Development 
