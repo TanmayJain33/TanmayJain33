@@ -2,13 +2,13 @@
 I'm Tanmay from India, and I do content on Android and Web Development. I really enjoy learning languages like Kotlin, JavaScript and Python and frameworks like Bootstrap and React Native.
 
 ## Skills and Experience
-* 👩‍💻 HTML, CSS, Bootstrap
-* 📱 Android Deveelopment
+* 👩‍💻 HTML, CSS, Bootstrap, Tailwind
+* 📱 Android Development
 * ⚛ React Native
 
 
 - 🔭 I’m currently working on my projects. 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Github 
 
 
