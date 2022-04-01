@@ -1,4 +1,4 @@
-# I'm Tanmay Jain
+# I'm Tanmay Jain son of Abhinav Anand
 I'm Tanmay from India, and I do content on Android and Web Development. I really enjoy learning languages like Kotlin, JavaScript and Python and frameworks like Bootstrap and React Native.
 
 ## Skills and Experience
