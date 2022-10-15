@@ -4,16 +4,6 @@
 
 <br>
 
-<!-- Badges -->
-
-<p align="center">
-
- <img src="https://badges.pufler.dev/visits/TanmayJain33/TanmayJain33">
- <img src="https://badges.pufler.dev/repos/TanmayJain33">
- <img src="https://badges.pufler.dev/commits/monthly/TanmayJain33">
-
-</p>
-
 <!-- Introduction -->
 
 <p align="center">
